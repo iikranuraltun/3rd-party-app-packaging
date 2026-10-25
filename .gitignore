@@ -1,0 +1,7 @@
+# Installer dosyaları repoya eklenmez (resmi kaynaktan indirilir, SHA256 değerleri README'de)
+*.msi
+*.exe
+
+# Scriptlerin ürettiği loglar
+Logs/
+*.log
